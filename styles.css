@@ -1,5 +1,17 @@
 body {
   margin: 0;
-  background-color: pink;
+  background-color: rgba(128, 0, 128, 0.304);
   text-align: center;
+}
+
+nav {
+  ul {
+    list-style-type: none;
+  }
+  li {
+    display: inline;
+    padding: 50px;
+  }
+  color: rgb(255, 80, 176);
+  font-size: 30px;
 }
