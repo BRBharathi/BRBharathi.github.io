@@ -14,7 +14,7 @@ const Body = () => {
           seamless user experiences and robust server-side solutions.
         </p>
       </div>
-      <img className={styles.myimage} src="src/assets/myimage.png"></img>
+      <img className={styles.myimage} src="/assets/myimage.png"></img>
     </section>
   );
 };
