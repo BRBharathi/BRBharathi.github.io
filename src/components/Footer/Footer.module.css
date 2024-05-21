@@ -1,0 +1,32 @@
+.container {
+  position: relative;
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 62px;
+  margin-top: 5%;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+.rightmenuitems {
+  display: flex;
+  gap: 30px;
+  flex-direction: row;
+  list-style: none;
+  padding: 0px;
+}
+.leftmenuitems {
+  display: flex;
+  gap: 30px;
+  flex-direction: row;
+  list-style: none;
+}
+.leftmenuitems a {
+  font-size: 20px;
+}
+
+.rightmenuitems a {
+  font-size: 20px;
+}
